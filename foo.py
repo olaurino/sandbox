@@ -1,4 +1,4 @@
-def bar(arg=None):
+def bar(arg=1):
 	pass
 
 def foo():
